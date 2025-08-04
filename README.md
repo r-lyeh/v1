@@ -1,4 +1,4 @@
-<h1 align="center">F·W·K<br/>THE ADVENTURE CONTINUES HERE: https://github.com/fwk3d/v2</h1>
+<h1 align="center">F·W·K<br/>THE ADVENTURE CONTINUES HERE: https://github.com/r-lyeh/v3</h1>
 <p align="center">
 3D game engine/framework in C.<br/>
 </p>
